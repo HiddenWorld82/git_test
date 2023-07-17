@@ -1,1 +1,2 @@
 Here is some content
+Trying to commit with message and VSCode
